@@ -33,4 +33,14 @@ then follow the instructions
 
 if you have any problem please open an issue
 if you want to do any tips you can to this address : 0x0d004dc793b724490B192002cD76Ec0Cf43AD87C
+
+# COMMANDS
  
+$help : show commands
+$rich : show your current balance
+$retire <name> <amount> : withdraw money from your wallet
+$add <name> <amount> : add money to your wallet
+$parts : show the part of each user
+$refresh : refresh the datas
+$fiat <fiat> : change the fiat
+$gain : show the gain of the wallet in status
