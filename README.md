@@ -1,6 +1,8 @@
 # SafuuInfosDiscord
 A discord bot made in python to help manage a multi-user wallet
 
+# In this project i'll use ⛨ as the symbol for SAFUU
+
 # Features 
 Manage multiple users sharing 1 wallet
 Automaticaly recalculate ratio owned on withdraw / add of safuu
