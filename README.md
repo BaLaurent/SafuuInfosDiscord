@@ -69,4 +69,4 @@ $refresh : refresh the datas
  
 $fiat <fiat> : change the fiat
  
-$gain : show the gain of the wallet in status
+$gain : switch the value shown in status between the gain and the global value
