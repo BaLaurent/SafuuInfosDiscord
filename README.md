@@ -51,7 +51,7 @@ then follow the instructions
 
 if you have any problem please open an issue
 
-**if you want to do any tips you can to this address : 0x0d004dc793b724490B192002cD76Ec0Cf43AD87C **
+if you want to do any tips you can to this address : **0x0d004dc793b724490B192002cD76Ec0Cf43AD87C**
 
 # COMMANDS
  
