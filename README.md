@@ -4,12 +4,15 @@ A discord bot made in python to help manage a multi-user wallet
 # Features 
 Manage multiple users sharing 1 wallet
 Automaticaly recalculate ratio owned on withdraw / add of safuu
+
 ![Capture d’écran 2022-04-20 000236](https://user-images.githubusercontent.com/27644308/164109552-22d3f340-929a-4fbc-b137-e101035aea0e.png)
 Display infos in status : 
   can either display global wallet value :
+  
   ![Capture d’écran 2022-04-20 000300](https://user-images.githubusercontent.com/27644308/164109650-4efca628-7efe-46b6-9ce0-13d02d76ecdc.png)
   
   or the benefits related to invested amount : 
+  
    ![Capture d’écran 2022-04-20 000320](https://user-images.githubusercontent.com/27644308/164109715-2395b5d9-582d-4d7f-8e2c-16e9c7fa5d70.png)
 
 
