@@ -34,9 +34,6 @@ class wallet:
         self.invest = invest
         self.users = users
 
-    def calculatePart(user):
-        return "todo"
-
 
 showGain = 0
 fiat = "USD"
