@@ -5,6 +5,7 @@ A discord bot made in python to help manage a multi-user wallet
 
 # Features 
 Manage multiple users sharing 1 wallet
+
 Automaticaly recalculate ratio owned on withdraw / add of safuu
 
 ![Capture d’écran 2022-04-20 000236](https://user-images.githubusercontent.com/27644308/164109552-22d3f340-929a-4fbc-b137-e101035aea0e.png)
